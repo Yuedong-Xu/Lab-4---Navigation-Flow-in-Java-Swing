@@ -121,7 +121,17 @@ The selected date is:
 4. Run `MainJFrame`
 
 ---
+## Screenshots
 
+Screenshots are located in the `/screenshots` folder inside this repository.
+
+They demonstrate:
+- Registration screen
+- View screen
+- Validation messages
+- Navigation flow
+
+---
 
 ## Conclusion
 

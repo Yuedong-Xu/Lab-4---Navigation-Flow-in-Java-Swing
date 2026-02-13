@@ -133,7 +133,8 @@ This lab helped reinforce:
 - Input validation
 - Navigation using CardLayout
 
-- Yuedong Xu
+
 
 The application successfully meets all required criteria and includes the bonus date chooser feature.
+Yuedong Xu
 
